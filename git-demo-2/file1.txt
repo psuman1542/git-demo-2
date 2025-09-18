@@ -1,5 +1,6 @@
 suman
 
+push git push -u origin <the-branch you commit>
 commit -m
 
 push
