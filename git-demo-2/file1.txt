@@ -5,4 +5,4 @@ commit -m
 push
 
 
-git add 
+stafe git add .
