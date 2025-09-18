@@ -1,0 +1,8 @@
+suman
+
+commit -m
+
+push
+
+
+git add 
