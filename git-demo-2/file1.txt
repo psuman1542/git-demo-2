@@ -1,12 +1,1 @@
-suman
-
-push git push -u origin <the-branch you commit>
-
-commit -m git commit -m "description"
-
-
-stafe git add .
-
-main - did change  -pushed
-
-private - did change - merge private + main
+demo of conflict
