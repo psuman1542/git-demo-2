@@ -1,1 +1,2 @@
+demo of merge conflicts <tryin to add a line for conflict of merge>
 demo of merge conflicts <tryin to add a line for conflict>
